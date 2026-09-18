@@ -4,7 +4,7 @@ An end-to-end **AI Data Engineering project** that combines a Databricks data pi
 
 ## Architecture
 
-Formula 1 AI Data Engineering & Intelligent Q&A System.png
+![Formula 1 AI Data Engineering Architecture](Formula 1 AI Data Engineering & Intelligent Q&A System.png)
 
 ## What the Project Does
 
