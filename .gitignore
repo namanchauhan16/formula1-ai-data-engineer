@@ -1,0 +1,15 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated vector database
+vector_db/
+
+# Local downloaded Gold data
+data/
